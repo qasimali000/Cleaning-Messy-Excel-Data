@@ -1,0 +1,153 @@
+"
+id
+","
+event_date
+","
+location
+","
+notes
+"
+"
+1
+","
+Oct 12, 23 14:30
+","
+New York
+","
+Regular client
+"
+"
+2
+","
+2023-10-13T08:00:00
+","
+Los Angeles
+","
+Urgent
+"
+"
+3
+","
+13/10/2023
+","
+Chicago
+","
+Special handling required
+"
+"
+4
+","
+10-14-2023 11 AM
+","
+Miami
+","
+Follow up
+"
+"
+5
+","
+Sun Oct 15, 23
+","
+Seattle
+","
+New lead
+"
+"
+6
+","
+20231016
+","
+Boston
+","
+Compact format
+"
+"
+7
+","
+Oct 17, 23 3:30 pm
+","
+Atlanta
+","
+Meeting
+"
+"
+8
+","
+17-10-2023
+","
+London
+","
+European format
+"
+"
+9
+","
+2023.10.18 16:45
+","
+Tokyo
+","
+Asia client
+"
+"
+10
+","
+19 Oct 2023
+","
+Sydney
+","
+AU timezone
+"
+"
+11
+","
+20/10/23
+","
+Paris
+","
+Short year
+"
+"
+12
+","
+TBD
+","
+Rio
+","
+Invalid 1
+"
+"
+13
+","
+2023-10-35
+","
+Berlin
+","
+Invalid date
+"
+"
+14
+","
+Tomorrow
+","
+Tokyo
+","
+Relative date
+"
+"
+15
+","
+
+","
+Moscow
+","
+Empty
+"
+"
+16
+","
+2023-02-30
+","
+Beijing
+","
+Nonexistent date
+"

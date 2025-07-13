@@ -1,0 +1,153 @@
+"
+id
+","
+event_date
+","
+location
+","
+notes
+",cleaned_date,original_format,detected_format,is_valid_date
+1,"
+Oct 12, 23 14:30
+","
+New York
+","
+Regular client
+",2023-10-12 14:30:00,"
+Oct 12, 23 14:30
+",2023-10-12 14:30:00,True
+2,"
+2023-10-13T08:00:00
+","
+Los Angeles
+","
+Urgent
+",2023-10-13 08:00:00,"
+2023-10-13T08:00:00
+",2023-10-13 08:00:00,True
+3,"
+13/10/2023
+","
+Chicago
+","
+Special handling required
+",2023-10-13 00:00:00,"
+13/10/2023
+",2023-10-13 00:00:00,True
+4,"
+10-14-2023 11 AM
+","
+Miami
+","
+Follow up
+",2023-10-14 11:00:00,"
+10-14-2023 11 AM
+",2023-10-14 11:00:00,True
+5,"
+Sun Oct 15, 23
+","
+Seattle
+","
+New lead
+",2023-10-15 00:00:00,"
+Sun Oct 15, 23
+",2023-10-15 00:00:00,True
+6,"
+20231016
+","
+Boston
+","
+Compact format
+",2023-10-16 00:00:00,"
+20231016
+",2023-10-16 00:00:00,True
+7,"
+Oct 17, 23 3:30 pm
+","
+Atlanta
+","
+Meeting
+",2023-10-17 15:30:00,"
+Oct 17, 23 3:30 pm
+",2023-10-17 15:30:00,True
+8,"
+17-10-2023
+","
+London
+","
+European format
+",2023-10-17 00:00:00,"
+17-10-2023
+",2023-10-17 00:00:00,True
+9,"
+2023.10.18 16:45
+","
+Tokyo
+","
+Asia client
+",2023-10-18 16:45:00,"
+2023.10.18 16:45
+",2023-10-18 16:45:00,True
+10,"
+19 Oct 2023
+","
+Sydney
+","
+AU timezone
+",2023-10-19 00:00:00,"
+19 Oct 2023
+",2023-10-19 00:00:00,True
+11,"
+20/10/23
+","
+Paris
+","
+Short year
+",2023-10-20 00:00:00,"
+20/10/23
+",2023-10-20 00:00:00,True
+12,"
+TBD
+","
+Rio
+","
+Invalid 1
+",,"
+TBD
+",UNPARSEABLE,False
+13,"
+2023-10-35
+","
+Berlin
+","
+Invalid date
+",,"
+2023-10-35
+",UNPARSEABLE,False
+14,"
+Tomorrow
+","
+Tokyo
+","
+Relative date
+",,"
+Tomorrow
+",UNPARSEABLE,False
+15,"
+
+","
+Moscow
+","
+Empty
+",,"
+
+",EMPTY_STRING,False
+16,"
+2023-02-30
+","
+Beijing
+","
+Nonexistent date
+",,"
+2023-02-30
+",UNPARSEABLE,False
